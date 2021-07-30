@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing : antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar.navbar-dark.navbar-expand-md.bg-dark {
+  background-color: #000 !important;
+  height          : 48px;
+}
+.child-nav{
+  background-color: #f9f9fa;
+}
+
+.fa.fa-apple.apple-logo {
+  font-size  : 32px;
+  line-height: 0.8
+}
+
+.rbt{
+  width: 100%;
+}
